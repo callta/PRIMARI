@@ -28,6 +28,6 @@ pathlib
 scipy
 
 ### To run the code
-Run the files main.py from your terminal or from a jupyter notebook having set the PATH variable to the base path in which your folder is stored in both main.py and utils/risk_distribution.py.  For example, if the folder is on your Desktop as ~/Desktop/project_folder/code... then set PATH to '~/Desktop/project_folder/'.  Follow the same process for sensitivity analyses using main_sensitivity_analyses.py
+Run the files main.py from your terminal or from a jupyter notebook having set the PATH variable to the base path in which your folder is stored in both main.py and utils/risk_distribution.py.  For example, if the folder is on your Desktop as '~/Desktop/project_folder/', then set PATH to '~/Desktop/project_folder/'.  Follow the same process for sensitivity analyses using main_sensitivity_analyses.py
 
 This will save the raw results in to a folder data/model_outputs.
