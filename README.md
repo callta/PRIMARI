@@ -3,9 +3,7 @@
 ## Citation
 Callender T, Emberton M, Morris S, Pharoah PDP, Pashayan N. Benefit, Harm, and Cost-effectiveness Associated with Magnetic Resonance Imaging Before Biopsy in Age-based and Risk-stratified Screening for Prostate Cancer. JAMA Network Open. 2021;4(2):e2037657. doi:10.1001/jamanetworkopen.2020.37657 
 
-## Abstract
-**IMPORTANCE** If magnetic resonance imaging(MRI) mitigates overdiagnosis of prostate cancer while improving the detection of clinically significant cases, including MRI in a screening program for prostate cancer could be considered.
-
+## Abstract - edited
 **OBJECTIVE** To evaluate the benefit-harm profiles and cost-effectiveness associated with MRI before biopsy compared with biopsy-first screening for prostate cancer using age-based and risk- stratified screening strategies.
 
 **DESIGN, SETTING, AND PARTICIPANTS** This decision analytical model used a life-table approach and was conducted between December 2019 and July 2020. A hypothetical cohort of 4.48 million men in England aged 55 to 69 years were analyzed and followed-up to 90 years of age.
@@ -21,10 +19,10 @@ This repository contains the code and underlying data used for this project.
 To run the models:
 
 Python 3.7+  
-numpy
-pandas
-os
-pathlib
+numpy  
+pandas  
+os   
+pathlib   
 scipy
 
 ### To run the code
