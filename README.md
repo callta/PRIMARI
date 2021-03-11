@@ -1,6 +1,9 @@
 # Benefit, Harm, and Cost-effectiveness Associated With Magnetic Resonance Imaging Before Biopsy vs Biopsy-First Screening For Prostate Cancer
 
-## Citation
+## Code Citation
+[![DOI](https://zenodo.org/badge/343391472.svg)](https://zenodo.org/badge/latestdoi/343391472)
+
+## Paper Citation
 Callender T, Emberton M, Morris S, Pharoah PDP, Pashayan N. Benefit, Harm, and Cost-effectiveness Associated with Magnetic Resonance Imaging Before Biopsy in Age-based and Risk-stratified Screening for Prostate Cancer. JAMA Network Open. 2021;4(2):e2037657. doi:10.1001/jamanetworkopen.2020.37657 
 
 ## Abstract - edited
